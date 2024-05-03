@@ -1,0 +1,6 @@
+@IdentityPlayground_HostAddress = http://localhost:5069
+
+GET {{IdentityPlayground_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
